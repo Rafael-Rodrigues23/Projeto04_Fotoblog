@@ -18,7 +18,8 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img width="593" alt="Captura de tela 2024-01-21 192826" src="https://github.com/Rafael-Rodrigues23/Projeto04_Cheesecake/assets/94968001/970a9c49-d5d4-4006-8e85-df64c62ea72e">
+  <img width="393" alt="Captura de tela 2024-01-27 235012" src="https://github.com/Rafael-Rodrigues23/Projeto04_Fotoblog/assets/94968001/da3503e8-0bc1-4915-baae-b5c3222791d6">
+
 </p>
 
 ## 🚀 Tecnologias
